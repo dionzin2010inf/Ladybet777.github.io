@@ -1,0 +1,46 @@
+body{
+    background-image: url("Images/LadyBet777Game.png");
+    background-repeat: no-repeat;
+}
+
+#return2 {
+    background-color: rgb(255, 0, 89, 0.703);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    position: absolute;
+    font-family: "Lobster", sans-serif;
+    top: 8%;
+    left: 70%;
+    border-radius: 90px;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 100px;
+    transform: translate(-50%, -50%);
+}
+
+.numeros {
+    text-align: center;
+    margin-top: 560px;
+    margin-right: 20%;
+}
+
+.numeros button {
+    width: 90px;
+    height: 90px;
+    top: 60%;
+    left: 40%;
+    margin: 5px;
+    font-size: 30px;
+    border: 2px solid #a80000;
+    cursor: pointer;
+}
+
+.numeros button:hover {
+    background-color: #ffcccc;
+}
+
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
